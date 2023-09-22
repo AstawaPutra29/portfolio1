@@ -40,7 +40,10 @@ export default function ContentAbout() {
       </h2>
       <div className="grid grid-cols-1 md:grid-cols-12 gap-4 justify-items-center text-center pt-4">
         {gambars.map((gambar) => (
-          <div className="border border-black md:col-span-4 border-1">
+          <div
+            key={gambar.key}
+            className="border border-black md:col-span-4 border-1"
+          >
             <div className="relative aspect-square">
               <Image src={gambar.image} alt="" fill />
             </div>
