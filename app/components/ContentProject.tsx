@@ -17,8 +17,8 @@ export default function ContentProject() {
       </h2>
       <div className="grid grid-cols-1 gap-4 justify-items-center text-center pt-4">
         {projects.map((project) => (
-          <div className="border border-black border-1">
-            <div key={project.key} className="relative aspect-video">
+          <div key={project.key} className="border border-black border-1">
+            <div className="relative aspect-video">
               <Image src={project.image} alt="" fill />
             </div>
             <p className="px-10 border bg-yellow-200 py-5">
