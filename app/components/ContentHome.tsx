@@ -16,7 +16,7 @@ export default function ContentHome() {
           eveniet soluta impedit?
         </p>
         <button className="rounded-full bg-yellow-300 text-white font-bold w-40 hover:shadow-lg">
-          <a href="http://localhost:3000/about/">MORE ABOUT ME</a>
+          <a href="https://portfolioo-sooty-eta.vercel.app/about">MORE ABOUT ME</a>
         </button>
       </div>
       <div className="relative w-1/2">
