@@ -5,27 +5,27 @@ export default function Sidebar() {
     {
       key: "home",
       label: "Home",
-      url: "http://localhost:3000/",
+      url: "https://portfolioo-sooty-eta.vercel.app/",
     },
     {
       key: "about",
       label: "About",
-      url: "http://localhost:3000/about/",
+      url: "https://portfolioo-sooty-eta.vercel.app/about",
     },
     {
       key: "gallery",
       label: "Gallery",
-      url: "http://localhost:3000/gallery/",
+      url: "https://portfolioo-sooty-eta.vercel.app/gallery",
     },
     {
       key: "project",
       label: "Project",
-      url: "http://localhost:3000/project/",
+      url: "https://portfolioo-sooty-eta.vercel.app/project",
     },
     {
       key: "contact",
       label: "Contact",
-      url: "http://localhost:3000/contact/",
+      url: "https://portfolioo-sooty-eta.vercel.app/contact",
     },
   ];
   return (
