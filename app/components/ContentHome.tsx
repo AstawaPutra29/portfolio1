@@ -10,10 +10,7 @@ export default function ContentHome() {
         </h2>
         <h3 className="font-bold bg-orange-400 text-center py-2">Student</h3>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere nihil
-          blanditiis necessitatibus. Ab voluptatum doloremque iste similique hic
-          fuga beatae ex quaerat veniam modi consequatur ducimus facilis,
-          eveniet soluta impedit?
+          My name is I Wayan Astawa Putra, I study at SMKN 1 Denpasar majoring in RPL (Software Engineering). I am a sociable, disciplined, honest person. I have good skills in the field of computers (software and hardware).
         </p>
         <button className="rounded-full bg-yellow-300 text-white font-bold w-40 hover:shadow-lg">
           <a href="https://portfolioo-sooty-eta.vercel.app/about">MORE ABOUT ME</a>
